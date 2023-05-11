@@ -31,7 +31,7 @@ This project was created by Team Tackle and Trail. The Team Members are
 <br>
 4.Pranav Barsagade -  _(single product, cart page, checkout page)_
 5.Rishabh Dev -  _(Admin Panel, documentation)_
-### Installation
+## Installation
 To install and run this project on your local machine, follow these steps:
 Clone the repository using git clone https://github.com/Ajay84sia/auspicious-sea-8816
 Navigate to the project directory using cd react-project
